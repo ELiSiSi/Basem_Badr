@@ -185,6 +185,7 @@ body {
 
 .contant {
   padding-top: 50px;
+  margin: auto;
 
   background-color: var(--main-color);
 
@@ -205,6 +206,7 @@ body {
 }
 
 .contant .col {
+  margin: auto;
   height: 50px;
   width: 100%;
   display: flex;
